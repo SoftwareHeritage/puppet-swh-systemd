@@ -1,0 +1,13 @@
+{
+  "name": "swh-systemd",
+  "version": "0.1.0",
+  "author": "swh",
+  "summary": "Manage systemd metadata from puppet",
+  "license": "Apache 2.0",
+  "source": "https://forge.softwareheritage.org/diffusion/SPSYSD/",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
